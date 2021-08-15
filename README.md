@@ -5,4 +5,6 @@ Actividad clase 6 Ing. Software
 
 IEXE Repositorio prueba 
 
- #### Actividades GIT
+#### Actividades GIT
+
+Ejercicios de git
