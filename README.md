@@ -9,5 +9,5 @@ IEXE Repositorio prueba
 
 Ejercicios de git
 
-![](images/gitlog1.png)
-![](images/gitlog2.png)
+![](img/gitlog1.png)
+![](img/gitlog2.png)
